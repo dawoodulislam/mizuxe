@@ -82,7 +82,16 @@ body
 
 @media (max-width: 575px){
     #showcase h1{
-        font-size: 60px;
+        font-size: 45px;
+    }
+    #showcase p{
+        font-size: 18px;
+    }
+    #showcase .btnsm{
+        width: 50%;
+    }
+    #showcase .btn{
+        font-size: 17px;
     }
     #showcase{
         min-height: 500px;
